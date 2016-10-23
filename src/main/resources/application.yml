@@ -1,0 +1,5 @@
+demo:
+    remote:
+        host: localhost
+        port: 9900
+        charset: UTF-8
